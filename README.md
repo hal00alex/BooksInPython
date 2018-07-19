@@ -6,9 +6,11 @@
 -TLDR_Influence.py prints out a very short version of "How to Win Friends and Influence People" for those who don't like emails  
 -X_men_power.py is a random power generator based on the most common powers  
 -X-men_summary.py prints out a summary of x-men  
+-Factfullnes/py finds the general trend in the data   
 
 # Sources and Links the Books  
 -Rick Riordan: https://en.wikipedia.org/wiki/Rick_Riordan  
 -Socrates/Plato Euthro: https://en.wikipedia.org/wiki/Euthyphro  
 -Jimmy Coates: https://en.wikipedia.org/wiki/Jimmy_Coates  
 -How to Win Friends and Influence People: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People  
+-Factfulness: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think  
