@@ -6,7 +6,7 @@
 -TLDR_Influence.py prints out a very short version of "How to Win Friends and Influence People" for those who don't like emails  
 -X_men_power.py is a random power generator based on the most common powers  
 -X-men_summary.py prints out a summary of x-men  
--Factfullnes/py finds the general trend in the data   
+-WIP: Factfullnes.py finds the general trend in the data   
 
 # Sources and Links the Books  
 -Rick Riordan: https://en.wikipedia.org/wiki/Rick_Riordan  
