@@ -13,4 +13,4 @@
 -Socrates/Plato Euthro: https://en.wikipedia.org/wiki/Euthyphro  
 -Jimmy Coates: https://en.wikipedia.org/wiki/Jimmy_Coates  
 -How to Win Friends and Influence People: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People  
--Factfulness: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think  
+-WIP: Factfulness: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think  
