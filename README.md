@@ -7,10 +7,12 @@
 -X_men_power.py is a random power generator based on the most common powers  
 -X-men_summary.py prints out a summary of x-men  
 -WIP: Factfullnes.py finds the general trend in the data   
+-WIP: Advocacy Quiz: Type some code and I'll parse it to give advice on branding or strenghts
 
 # Sources and Links the Books  
--Rick Riordan: https://en.wikipedia.org/wiki/Rick_Riordan  
--Socrates/Plato Euthro: https://en.wikipedia.org/wiki/Euthyphro  
--Jimmy Coates: https://en.wikipedia.org/wiki/Jimmy_Coates  
--How to Win Friends and Influence People: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People  
--WIP: Factfulness: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think  
+-[Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)  
+-[Socrates/Plato Euthro](https://en.wikipedia.org/wiki/Euthyphro)  
+-[Jimmy Coates](https://en.wikipedia.org/wiki/Jimmy_Coates)  
+-[How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)  
+-WIP: [Advocacy](https://yalebooks.yale.edu/book/9780300188134/advocacy)  
+-WIP: [Factfulness](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think)   
