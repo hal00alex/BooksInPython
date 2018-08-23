@@ -6,7 +6,7 @@
 -[TLDR_Influence.py](https://github.com/hal00alex/BooksInPython/blob/master/TLDR_Influence.py) prints out a very short version of "How to Win Friends and Influence People" for those who don't like emails  
 -[X_men_power.py](https://github.com/hal00alex/BooksInPython/blob/master/X_men_power.py) is a random power generator based on the most common powers  
 -[X-men_summary.py](https://github.com/hal00alex/BooksInPython/blob/master/x_men_summary.py) prints out a summary of x-men  
--WIP: Factfullnes.py finds the general trend in the data   
+-[Factfullnes.py](https://github.com/hal00alex/BooksInPython/blob/master/Factfulness.py) finds the general trend in the data   
 -WIP: Advocacy: Elevator Problem  
 
 
@@ -19,5 +19,5 @@
 -[Factfulness](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World--and_Why_Things_Are_Better_Than_You_Think)   
 
 # Why I Do These Programs  
-I am trying to read and program more in my free time because I enjoy those activities. I especially some of the sillier program where I print out sassy messages or create Buzzfeed-Style quizzes because it is a nice break from the very sersious C code I write at work.  
+I am trying to read and program more in my free time because I enjoy those activities. I especially enjoy some of the sillier program where I print out sassy messages or create Buzzfeed-Style quizzes because it is a nice break from the very sersious C code I write at work.  
 I enjoy reading all kind of books, but most of the programs are based on business books and Scf-Fy books. They tend to have more lessons and underling math which makes finding code describitions for them easier. 
